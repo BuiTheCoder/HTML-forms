@@ -1,0 +1,23 @@
+body {
+  padding: 20px;
+  box-sizing: border-box;
+}
+body main div {
+  margin: 5px;
+  padding: 10px 0;
+}
+textarea,
+input {
+  width: 100%;
+}
+/*
+@media all and (min-width: 600px) {
+  body main div {
+    display: flexbox;
+  }
+  textarea,
+  input {
+    width: 100%;
+  }
+}
+*/
